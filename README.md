@@ -1,5 +1,5 @@
 ### Hello, I am Jeferson Santos! Welcome to my profile! 
-🌱 I’m currently learning Javascript
+
 <!--
 Here are some ideas to get you started:
 
