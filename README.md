@@ -1,4 +1,4 @@
-### Hello, I am Jeferson Santos! Welcome to my profile! 
+### Olá, eu sou Jeferson Santos! 
 
 <!--
 Here are some ideas to get you started:
