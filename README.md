@@ -3,7 +3,7 @@
 &ensp;Tenho formação em Direito e já advoguei de forma autônoma, recentemente fiz transição de carreira para desenvolvimento web frontend e tenho trabalhado como freelancer em projetos há mais de 1 ano e meio e fui estudante do programa ONE - Oracle Next Education. Minha especialidade inclui, React, Javascript, HTML, CSS, Express. Atualmente venho estudando Node.js e Banco de dados.
 
 &ensp;Sou um desenvolvedor web entusiasta e positivo, sempre à procura de novos desafios como oportunidades para aprender e crescer. Minha abordagem de comunicação é assertiva e não violenta, valorizando a clareza e a empatia nas interações. Sou um forte colaborador em ambientes de equipe, acreditando que o sucesso coletivo é alcançado através da colaboração eficaz e do apoio mútuo. Busco constantemente melhorar minhas habilidades técnicas e interpessoais, comprometido com a excelência em cada projeto que assumo. Entre em contato comigo, será um prazer me comunicar com você e criar novos laços.
-<hr>
+##
 <!--
 Here are some ideas to get you started:
 
