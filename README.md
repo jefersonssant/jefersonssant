@@ -1,6 +1,6 @@
 ### Olá, eu sou Jeferson Santos! 🧑‍💻
 
-Como desenvolvedor web front-end, tenho trabalhado como freelancer a mais de um ano, possuo habilidades em HTML, CSS, SCSS SASS, Javascript, React, Node, Express, Git, GitHub, SQL, MySQL, Oracle Cloud. Ajudo empresas a amplificar seus resultados ao criar websites atrativos, interativos e responsivos, fácil de usar com entrega de boa experiência de usabilidade ao usuário.
+Como desenvolvedor web front-end, tenho trabalhado como freelancer a mais de um ano, possuo habilidades em HTML, CSS, SCSS SASS, Javascript, React, Node, Express, Python, Flask, Git, GitHub, SQL e MySQL. Ajudo empresas a amplificar seus resultados ao criar websites atrativos, interativos e responsivos, fácil de usar com entrega de boa experiência de usabilidade ao usuário.
 
 Tenho formação em Direito e fiz transição de carreira para a área de desenvolvimento, eu fui estudante do programa ONE - Oracle Next Education e também do Vai Na Web, onde pude aprender habilidades e tecnologias de desenvolvimento full stack e encarei desafios. Sou um forte colaborador em ambientes de equipe, acreditando que o sucesso coletivo é alcançado através da colaboração eficaz e do apoio mútuo. Busco constantemente melhorar minhas habilidades técnicas e interpessoais, comprometido cada projeto que assumo.
 ##
@@ -28,8 +28,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Logo React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Logo Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Logo Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="Logo Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Logo Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   <img align="center" alt="Logo MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Logo Oracle.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
 </div>
     
 ##
